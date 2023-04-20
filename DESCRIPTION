@@ -1,0 +1,14 @@
+Package: vizHelp
+Type: Package
+Title: Help with Cleaning and Rememebering Vizualizations
+Version: 0.1.0
+Author: Rita Viramontes
+Maintainer: Rita Viramontes <rhviramontes@usf.edu>
+Description: A few functions to help with cleaning data and templates to help remember different ways to vizualize data, templates help with using ggplot2
+    All things I wished I had for all of my r studio classes.
+License: CC0
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.3
+Imports: 
+    ggplot2
